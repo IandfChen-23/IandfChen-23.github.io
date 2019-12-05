@@ -22,6 +22,7 @@
     <link rel="stylesheet" href="/fancybox/jquery.fancybox.min.css">
   
   <script src="/js/pace.min.js"></script>
+<link rel="alternate" href="/atom.xml" title="陶码" type="application/atom+xml">
 </head>
 
 <body>
@@ -91,7 +92,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://yoursite.com/2019/11/29/hello-world/" data-id="ck3s51b800000j0sw11go57t8"
+      <a data-url="http://yoursite.com/2019/11/29/hello-world/" data-id="ck3sbi9ch00000sswg6wxawbd"
          class="article-share-link">Share</a>
       
     </footer>
@@ -102,15 +103,11 @@
     
   <nav class="article-nav">
     
-      <a href="/2019/12/02/%E6%AC%A2%E8%BF%8E%E4%BD%BF%E7%94%A8CSDN-markdown%E7%BC%96%E8%BE%91%E5%99%A8/" class="article-nav-link">
-        <strong class="article-nav-caption">Newer posts</strong>
-        <div class="article-nav-title">
-          
-            欢迎使用CSDN-markdown编辑器
-          
-        </div>
-      </a>
     
+      <a href="/2013/07/13/%E6%AC%A2%E8%BF%8E%E4%BD%BF%E7%94%A8CSDN-markdown%E7%BC%96%E8%BE%91%E5%99%A8/" class="article-nav-link">
+        <strong class="article-nav-caption">Olde posts</strong>
+        <div class="article-nav-title">欢迎使用Markdown编辑器</div>
+      </a>
     
   </nav>
 
@@ -119,6 +116,26 @@
 
   
     
+  <div class="gitalk" id="gitalk-container"></div>
+  <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+  <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+  <script src="https://cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.min.js"></script>
+  <script type="text/javascript">
+    var gitalk = new Gitalk({
+      clientID: '',
+      clientSecret: '',
+      repo: '',
+      owner: '',
+      admin: [''],
+      // id: location.pathname,      // Ensure uniqueness and length less than 50
+      id: md5(location.pathname),
+      distractionFreeMode: false,  // Facebook-like distraction free mode
+      pagerDirection: 'last'
+    })
+
+  gitalk.render('gitalk-container')
+  </script>
+
   
 
 </article>
@@ -132,8 +149,6 @@
       <ul class="list-inline">
   
     <li><i class="fe fe-smile-alt"></i> <span id="busuanzi_value_site_uv"></span></li>
-  
-    <li><i class="fe fe-bookmark"></i> <span id="busuanzi_value_page_pv"></span></li>
   
 </ul>
     </div>
@@ -171,11 +186,11 @@
       </li>
     
       <li class="nav-item">
-        <a class="nav-item-link" href="/about">About</a>
+        <a class="nav-item-link" href="/project">Project</a>
       </li>
     
       <li class="nav-item">
-        <a class="nav-item-link" href="/project">Project</a>
+        <a class="nav-item-link" href="/about">About</a>
       </li>
     
     <li class="nav-item">
