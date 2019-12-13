@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Post name</title>
+    <title>利用CSS实现居中对齐</title>
     <url>/2019/12/11/%E5%88%A9%E7%94%A8CSS%E5%AE%9E%E7%8E%B0%E5%B1%85%E4%B8%AD%E5%AF%B9%E9%BD%90/</url>
     <content><![CDATA[<h1 id="1-文本居中"><a href="#1-文本居中" class="headerlink" title="1. 文本居中"></a>1. 文本居中</h1><p>首先编写一个简单的html代码，设置一个类名为parentDiv的div对象。html代码如下：</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;div class&#x3D;&quot;parentDiv&quot;&gt;</span></pre></td></tr><tr><td class="code"><pre><span class="line"> 这里随意填写~...</span></pre></td></tr><tr><td class="code"><pre><span class="line">&lt;&#x2F;div&gt;</span></pre></td></tr></table></figure>
