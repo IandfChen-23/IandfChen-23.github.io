@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>吐血推荐超实用的网站</title>
+    <url>/2019/12/16/%E5%90%90%E8%A1%80%E6%8E%A8%E8%8D%90%E8%B6%85%E5%AE%9E%E7%94%A8%E7%9A%84%E7%BD%91%E7%AB%99/</url>
+    <content><![CDATA[<h1 id="1图壳，图片最稳定的家"><a href="#1图壳，图片最稳定的家" class="headerlink" title="1图壳，图片最稳定的家"></a>1<a href="https://imgkr.com/#upload" target="_blank" rel="noopener">图壳</a>，图片最稳定的家</h1><p>图壳是一个免费提供存储图片能力的平台,用户上传的内容版权归用户所有,地址： <a href="https://imgkr.com/#upload" target="_blank" rel="noopener">https://imgkr.com/#upload</a> </p>
+<h1 id="2在线ps，在线编辑图片"><a href="#2在线ps，在线编辑图片" class="headerlink" title="2在线ps，在线编辑图片"></a>2<a href="https://www.uupoop.com/" target="_blank" rel="noopener">在线ps</a>，在线编辑图片</h1><p>Photoshop有的功能，在web页面上也可以轻松自由的操作，简直不能太赞了</p>
+<h1 id="3压缩图片神器，在线压缩图片"><a href="#3压缩图片神器，在线压缩图片" class="headerlink" title="3压缩图片神器，在线压缩图片"></a>3<a href="https://tinypng.com/" target="_blank" rel="noopener">压缩图片神器</a>，在线压缩图片</h1><p>Smart PNG and JPEG compression<br>More than 1 billion PNG and JPEG images optimized and still counting!</p>
+<h1 id="4变量起名"><a href="#4变量起名" class="headerlink" title="4变量起名"></a>4<a href="https://unbug.github.io/codelf/#Invoice" target="_blank" rel="noopener">变量起名</a></h1><p>A search tool helps dev to solve the naming things problem.<br>Search over projects from Github, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project, GitLab to find real-world usage variable names.</p>
+<h1 id="5百度脑图"><a href="#5百度脑图" class="headerlink" title="5百度脑图"></a>5<a href="https://naotu.baidu.com/" target="_blank" rel="noopener">百度脑图</a></h1><p>在线编辑思维导图，记录你的想法，写下你的灵感</p>
+<h1 id="5在线编辑代码"><a href="#5在线编辑代码" class="headerlink" title="5在线编辑代码"></a>5<a href="https://codepen.io/" target="_blank" rel="noopener">在线编辑代码</a></h1><p>CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.</p>
+<h1 id="6BootCDN"><a href="#6BootCDN" class="headerlink" title="6BootCDN"></a>6<a href="https://www.bootcdn.cn/" target="_blank" rel="noopener">BootCDN</a></h1><p>BootCDN 是 Bootstrap 中文网支持并维护的前端开源项目免费 CDN 服务，致力于为 Bootstrap、jQuery、Angular、Vuejs 一样优秀的前端开源项目提供稳定、快速的免费 CDN 加速服务。BootCDN 所收录的开源项目主要同步于 cdnjs 仓库。</p>
+<h1 id="7iconfont"><a href="#7iconfont" class="headerlink" title="7iconfont"></a>7<a href="https://www.iconfont.cn/" target="_blank" rel="noopener">iconfont</a></h1><p>各种你想要的图标文件，只有你想不到，没有你搜不到</p>
+]]></content>
+  </entry>
+  <entry>
     <title>每天一个知识点</title>
     <url>/2019/12/16/%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E7%9F%A5%E8%AF%86%E7%82%B9/</url>
     <content><![CDATA[<h1 id="1css"><a href="#1css" class="headerlink" title="1css"></a>1css</h1><h2 id="1-1盒模型"><a href="#1-1盒模型" class="headerlink" title="1.1盒模型"></a>1.1盒模型</h2><p>CSS盒模型本质上是一个盒子，封装周围的HTML元素，它包括：边距margin，边框border，填充padding，和实际内容content。盒模型允许我们在其它元素和周围元素边框之间的空间放置元素。<br><img src="https://img-blog.csdnimg.cn/20191216112415755.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3RhbmdlbQ==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>box-sizing: content-box（W3C盒模型，又名标准盒模型）：元素的宽高大小表现为内容的大小。 box-sizing: border-box（IE盒模型，又名怪异盒模型）：元素的宽高表现为内容 + 内边距 + 边框的大小。背景会延伸到边框的外沿。</p>
